@@ -8,7 +8,7 @@ void guessGame(void); // function prototype
 bool isCorrect(int guess, int answer); // function prototype
 
 int main(void) {
-   // srand(time(0)); // seed random number generator
+   // srand(time(0)); // seed random number generator.
    guessGame();
 } // end main
 
